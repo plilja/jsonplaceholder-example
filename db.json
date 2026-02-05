@@ -1,41 +1,29 @@
 {
   "products": [
     {
-      "id": "p1",
+      "id": "1",
       "title": "Wireless Headphones",
       "price": 89.99,
-      "category": "Electronics",
-      "inStock": true,
       "tags": [
         "audio",
         "bluetooth",
         "tech"
-      ],
-      "specs": {
-        "battery": "20 hours",
-        "weight": "250g"
-      }
+      ]
     },
     {
-      "id": "p2",
+      "id": "2",
       "title": "Leather Journal",
       "price": 24.50,
-      "category": "Stationery",
-      "inStock": false,
       "tags": [
         "office",
         "paper"
-      ],
-      "specs": {
-        "pages": 200,
-        "size": "A5"
-      }
+      ]
     }
   ],
   "reviews": [
     {
       "id": 1,
-      "productId": "p1",
+      "productId": "1",
       "user": "Alice",
       "rating": 5,
       "comment": "Amazing sound quality!"
