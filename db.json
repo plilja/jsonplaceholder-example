@@ -4,20 +4,13 @@
       "id": "1",
       "title": "Wireless Headphones",
       "price": 89.99,
-      "tags": [
-        "audio",
-        "bluetooth",
-        "tech"
-      ]
+      "category": "electronics"
     },
     {
       "id": "2",
-      "title": "Leather Journal",
-      "price": 24.50,
-      "tags": [
-        "office",
-        "paper"
-      ]
+      "title": "Moby Dick",
+      "price": 24.50
+      "category": "books"
     }
   ],
   "reviews": [
