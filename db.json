@@ -9,7 +9,7 @@
     {
       "id": "2",
       "title": "Moby Dick",
-      "price": 24.50
+      "price": 24.50,
       "category": "books"
     }
   ],
@@ -18,8 +18,15 @@
       "id": 1,
       "productId": "1",
       "user": "Alice",
+      "rating": 4,
+      "comment": "Great sound quality!"
+    },
+    {
+      "id": 2,
+      "productId": "2",
+      "user": "Bart",
       "rating": 5,
-      "comment": "Amazing sound quality!"
+      "comment": "A classic!"
     }
   ]
 }
